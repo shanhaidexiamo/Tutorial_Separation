@@ -25,6 +25,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Advances in End-to-End Neural Source Separation, Yi Luo, 2020] [[Video (BiliBili)]](https://www.bilibili.com/video/BV11T4y1774e) [[Video]](https://www.shenlanxueyuan.com/open/course/62/lesson/57/liveToVideoPreview) [[Slide]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/Advances_in_end-to-end_neural_source_separation.pdf)
 
+- [Informed spatial filters for speech enhancement: Noise and Interference Reduction, Blind Source Separation, and Acoustic Source Tracking, Maja Taseska, 2018] [[Book]](https://opus4.kobv.de/opus4-fau/frontdoor/index/index/year/2018/docId/9332)
+
 - [Audio Source Separation and Speech Enhancement, Emmanuel Vincent, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
 
 - [Audio Source Separation, Shoji Makino, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
